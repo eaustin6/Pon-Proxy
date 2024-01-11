@@ -9,7 +9,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://nyaa.si/:path*"
+      "destination": "https://pornhub.com/:path*"
     }
   ]
 }
