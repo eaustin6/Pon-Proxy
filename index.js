@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require("http-proxy-middleware");
 const express = require("express");
 
 const app = express();
-const urlToProxy = "https://nyaa.si";
+const urlToProxy = "https://pornhub.com";
 
 // proxy the base path
 app.use(
